@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Road
+comment0.text=\n\ Write\ a\ description\ of\ class\ Road\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=recto
+comment1.target=Road(boolean)
+comment2.params=girar
+comment2.target=Road(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
